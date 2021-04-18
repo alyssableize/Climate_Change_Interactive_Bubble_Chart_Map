@@ -1,0 +1,235 @@
+body {
+  background-color: #A3AFC0;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  padding: 10px;
+  background-color: #A3AFC0;
+
+
+}
+
+h1 {
+  color: white;
+  opacity: 80%;
+  font-size: 270%;
+  text-align: center;
+  height: 60px;
+  background-color: #7F8A99;
+  margin: 0;
+}
+
+h2 {
+  color: #48576E;
+  opacity: 75%;
+  font-size: 150%;
+  text-align: center;
+}
+
+h3 {
+  color: #48576E;
+  opacity: 85%;
+  font-size: 100%;
+  text-align: left;
+  margin: auto;
+  width: 35%;
+  padding: 10px;
+}
+
+h4 {
+  color: white;
+  opacity: 80%;
+  font-size: 200%;
+  text-align: center;
+  height: 50px;
+  background-color: #7F8A99;
+  margin: 0;
+}
+
+h5 {
+  color: white;
+  opacity: 80%;
+  font-size: 100%;
+  text-align: center;
+  height: 25px;
+  background-color: #7F8A99;
+  margin: 0;
+}
+
+hr.line {
+  border: 0.5px solid white;
+  opacity: 80%;
+  
+}
+
+.titel {
+  color: #48576E;
+  opacity: 75%;
+  font-size: 260%;
+  text-align: center;
+}
+
+
+.one {
+  opacity: 70%;
+  text-align: center;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #48576E;
+  margin: auto;
+  width: 45%;
+  line-height: 1.5;
+
+}
+
+.two{
+  opacity: 70%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  color: #48576E;
+  text-align: left;
+  margin: 0 auto;
+  width: 45%;
+  line-height: 1.5;
+
+}
+.three{
+  opacity: 70%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  color: #48576E;
+  text-align: left;
+  margin: auto;
+  width: 45%;
+  line-height: 1.5;
+}
+
+.four{
+  opacity: 100%;
+  text-align: center;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  color: #48576E;
+}
+
+.five{
+  opacity: 80%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: #48576E;
+  text-align: left;
+  margin: auto;
+  width: 35%;
+  padding: 10px;
+  line-height: 1.5;
+}
+
+
+
+svg { width: 950px;
+      height: 600px;
+      display: block;
+      margin: auto;
+}
+
+
+
+
+iframe {
+  margin:auto;
+  display:block;
+}
+
+.energy {
+  position: absolute;
+  top: 1090px;
+  left: 350px;
+  padding-right: 26px;
+  border-radius: 3px;
+  width: 100px;
+  height: 100px;
+}
+
+.forestry {
+  position: absolute;
+  top: 1260px;
+  left: 350px;
+  padding-right: 26px;
+  border-radius: 3px;
+  width: 100px;
+  height: 100px;
+}
+
+.industrial {
+  position: absolute;
+  top: 1410px;
+  left: 350px;
+  padding-right: 26px;
+  border-radius: 3px;
+  width: 100px;
+  height: 100px;
+}
+
+.bunkerfuels {
+  position: absolute;
+  top: 1550px;
+  left: 350px;
+  padding-right: 26px;
+  border-radius: 3px;
+  width: 100px;
+  height: 100px;
+}
+
+
+
+.ticks {
+  font-size: 10px;
+}
+
+.track,
+.track-inset,
+.track-overlay {
+  stroke-linecap: round;
+}
+
+.track {
+  stroke: #000;
+  stroke-opacity: 0.3;
+  stroke-width: 10px;
+  
+}
+
+.track-inset {
+  stroke: #dcdcdc;
+  stroke-width: 9px;
+  
+}
+
+.track-overlay {
+  pointer-events: stroke;
+  stroke-width: 100px;
+  stroke: transparent;
+  cursor: crosshair;
+
+  
+  
+  
+}
+
+.handle {
+  fill: #fff;
+  stroke: #000;
+  stroke-opacity: 0.5;
+  stroke-width: 1.25px;
+}
+
+
